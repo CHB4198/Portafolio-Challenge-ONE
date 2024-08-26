@@ -1,5 +1,5 @@
 # Portafolio 
-¡Bienvenido al portafolio del proyecto del Challenge ONE!
+¡Bienvenido a mi portafolio del proyecto Challenge ONE!
 
 ## Herramientas utilizadas:
 *HTML
